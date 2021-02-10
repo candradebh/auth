@@ -1,4 +1,4 @@
-package br.com.alura.microservice.auth;
+package com.carlosandrade.microservice.auth;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

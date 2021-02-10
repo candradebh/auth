@@ -1,4 +1,4 @@
-package br.com.alura.microservice.auth;
+package com.carlosandrade.microservice.auth;
 
 import java.security.Principal;
 
